@@ -1,0 +1,15 @@
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\DZ_S_1.csproj.AssemblyReference.cache
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\DZ_S_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\DZ_S_1.AssemblyInfoInputs.cache
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\DZ_S_1.AssemblyInfo.cs
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\DZ_S_1.csproj.CoreCompileInputs.cache
+D:\обучение\C#\DZ_S_1\bin\Debug\net6.0\DZ_S_1.exe
+D:\обучение\C#\DZ_S_1\bin\Debug\net6.0\DZ_S_1.deps.json
+D:\обучение\C#\DZ_S_1\bin\Debug\net6.0\DZ_S_1.runtimeconfig.json
+D:\обучение\C#\DZ_S_1\bin\Debug\net6.0\DZ_S_1.dll
+D:\обучение\C#\DZ_S_1\bin\Debug\net6.0\DZ_S_1.pdb
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\DZ_S_1.dll
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\refint\DZ_S_1.dll
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\DZ_S_1.pdb
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\DZ_S_1.genruntimeconfig.cache
+D:\обучение\C#\DZ_S_1\obj\Debug\net6.0\ref\DZ_S_1.dll
